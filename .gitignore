@@ -127,6 +127,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+BreastCancerEnv/
 
 # Spyder project settings
 .spyderproject
